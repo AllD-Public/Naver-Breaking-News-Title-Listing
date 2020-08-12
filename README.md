@@ -7,6 +7,6 @@ Using Python requests, beautyfulsoup library, I proceeded with a project to list
 - beautifulsoup : 4.9.1
 
 ## 2. Program Flow
-i. Naver News Breaking Page Crawling (Make news list)
-ii. Read a link to the original breaking news corresponding to the list item
-iii. Read the title in the original article
+i. Naver News Breaking Page Crawling (Make news list)  
+ii. Read a link to the original breaking news corresponding to the list item  
+iii. Read the title in the original article  
